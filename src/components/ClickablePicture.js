@@ -1,4 +1,4 @@
-import React, { Component, useState } from 'react';
+import React, { useState } from 'react';
 
 const ClickablePicture = (props) => {
   const [clicked, setClicked] = useState(false);
